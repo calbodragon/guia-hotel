@@ -1,0 +1,19 @@
+{
+  "name": "guia-hotel",
+  "version": "1.0.0",
+  "description": "nuestro primer proyecto de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calbodragon/guia-hotel.git"
+  },
+  "author": "cristhiam bohorquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calbodragon/guia-hotel/issues"
+  },
+  "homepage": "https://github.com/calbodragon/guia-hotel#readme"
+}
